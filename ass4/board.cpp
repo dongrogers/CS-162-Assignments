@@ -458,7 +458,6 @@ void board::beeActions(){
 				checkFire(i);
 				clearDead();
 			}
-
 			//Attacking Next Square
 			else if((area[i-1].checkAnts() == true) && (area[i].checkBees() == true)){
 				area[i-1].beesAttack();
