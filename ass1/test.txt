@@ -1,0 +1,24 @@
+Oregon 1000 2
+Benton 530 999 2540 1 Corvallis
+Lane 80 500 150 2 Eugene Springfield
+California 99999000 2
+Anderson 800 100 231 2 Andersen Pendleton
+Pickens 50 50 200 2 Clemson Pickens
+South_Carolina 10000 2
+Bnderson 800 100 231 2 Andersen Pendleton
+Dickens 50 50 200 2 Clemson Pickens
+Dog_Carolina 10 2
+Whanderson 800 100 231 2 Andersen Pendleton
+Jickens 50 50 200 2 Clemson Pickens
+Bregon 1000 2
+Tenton 530 999 2540 1 Corvallis
+Qane 80 500 150 2 Eugene Springfield
+Talifornia 99999000 2
+Ynderson 800 100 231 2 Andersen Pendleton
+Uickens 50 50 200 2 Clemson Pickens
+Iouth_Carolina 10000 2
+Pnderson 800 100 231 2 Andersen Pendleton
+Zickens 50 50 200 2 Clemson Pickens
+Xog_Carolina 10 2
+Chanderson 800 100 231 2 Andersen Pendleton
+Vickens 50 50 200 2 Clemson Pickens
